@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "libmarketmaker"
+version = "0.1.0"
+description = "Python3 library to proxy marketmaker api calls. Docs: https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-api.html"
+authors = [
+    "SirSevenG, <https://github.com/SirSevenG>",
+    "TonyL, <https://github.com/tonymorony>",
+    "dathbezumniy, <https://github.com/dathbezumniy>"
+]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+requests = "^2.24.0"
+ujson = "^4.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^4.6"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
