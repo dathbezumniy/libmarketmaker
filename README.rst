@@ -8,4 +8,4 @@ This lib is intended to be used in python-based applications and python-REPL.
 API reference:
 https://developers.atomicdex.io/basic-docs/atomicdex/atomicdex-api.html
 
-![](main.gif)
+.. image:: main.gif
