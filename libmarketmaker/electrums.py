@@ -4,7 +4,7 @@ all_tickers = ["AXE",   "BCH",      "BET",     "BOTS",   "BTC",    "BTCH",  "BTG
                "HODL",              "HUSH",    "ILN",    "JUMBLR", "KMD",   "KOIN",   
                "LABS",  "LTC",                 "MCL",    "MGW",    "MONA",  "MORTY",
                         "MSHARK",   "NAV",     "NINJA",            "OOT",   "PANGEA",   
-               "PGT",   "PTX",      "QTUM",    "REVS",   "RFOX",   "RICK",  "RVN",    
+               "PGT",   "PTX",      "QTUM",    "REVS",      "RICK",  "RVN",    
                "SMART", "SUPERNET", "THC",     "UFO",    "VRSC",            "WLC",  
                                     "ZEC",     "ZER",    "ZILLA",  "ETH"]
 
